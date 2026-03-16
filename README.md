@@ -12,3 +12,6 @@ Fun little side project incorporating Rekognition and distributed architecture p
 - Split the addresses into two separate files based on location:
     1. US addresses → store in one file
     2. Non-US addresses → store in another file
+
+## Dashboard
+![HomeVision Dashboard](images/cloudwatch-dashboard.png)
