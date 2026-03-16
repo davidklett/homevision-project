@@ -1,5 +1,5 @@
 # homevision-project
-Fun little side project incorporating computer vision and distributed architecture patterns.
+Fun little side project incorporating Rekognition and distributed architecture patterns (SNS -> SQS fanout pattern).
 
 ## Image Processing
 
